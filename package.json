@@ -1,0 +1,19 @@
+{
+  "name": "uhc-backend",
+  "version": "1.0.0",
+  "description": "A backend matchmaking server for UHC written with node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Team-Cocoa/uhc-backend.git"
+  },
+  "author": "fixca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Team-Cocoa/uhc-backend/issues"
+  },
+  "homepage": "https://github.com/Team-Cocoa/uhc-backend#readme"
+}
